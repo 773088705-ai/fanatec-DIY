@@ -1,3 +1,5 @@
+<img width="3000" height="4000" alt="20260416_110036" src="https://github.com/user-attachments/assets/40096c14-1c3f-431c-a750-dea63681282e" />
+<img width="1920" height="1080" alt="1775038389764" src="https://github.com/user-attachments/assets/1ebd2030-b206-4cd5-8a8a-4bb1a16f44c0" />
 # fanatec-DIY
 基于3.3vPro micro和霍尔开关模块的fanatec手排挡
 可以切换3种模式分别为 
